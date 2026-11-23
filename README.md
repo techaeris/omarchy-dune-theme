@@ -1,5 +1,10 @@
 # DUNE — Omarchy Theme
 
+> [!IMPORTANT]
+> **Project Status — Shared "As-Is" / Not Actively Maintained**
+>
+> This Dune theme was built primarily for my personal **Omarchy Linux** setup and is **not an actively maintained project**. It is shared publicly **"as-is"** in the hope that it may be useful to others — you are welcome to use, modify, or fork it freely under the [MIT License](LICENSE), though issues and pull requests may not receive responses.
+
 ![DUNE Omarchy Theme Preview](assets/preview.png)
 
 An Arrakis-inspired dark theme for [Omarchy](https://omarchy.org), drawing from the monolithic visual world of Denis Villeneuve's *Dune* film series and modeled closely on the warm, low-glare obsidian-and-sand aesthetic of [Dystopia](https://github.com/jtreguer/omarchy-dystopia-theme).
