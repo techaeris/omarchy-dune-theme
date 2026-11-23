@@ -8,6 +8,18 @@ Deep desert obsidian surfaces, sunlit sand foregrounds, burnt spice-amber accent
 
 ---
 
+## Previews
+
+| App Launcher | Terminal (`foot` + `fastfetch`) |
+|---|---|
+| ![App Launcher Preview](assets/preview-launcher.png) | ![Terminal Preview](assets/preview-terminal.png) |
+
+### Application Window & Active Border
+
+![Application Window Preview](assets/preview-app.png)
+
+---
+
 ## Color Palette
 
 GitHub renders color swatches inline beside each hex code below.
@@ -120,8 +132,11 @@ This repository follows Omarchy's modern palette-driven theme format (`colors.to
 ```text
 omarchy-dune-theme/
 ├── assets/
-│   └── preview.png         # Desktop preview screenshot
-├── backgrounds/            # 27 Dune wallpapers fitted to 2880x1800 (16:10)
+│   ├── preview.png          # Desktop preview screenshot
+│   ├── preview-launcher.png # Omarchy app launcher screenshot
+│   ├── preview-terminal.png # Terminal (foot + fastfetch) screenshot
+│   └── preview-app.png      # Application window & border gradient screenshot
+├── backgrounds/             # 27 Dune wallpapers fitted to 2880x1800 (16:10)
 ├── colors.toml             # Complete Omarchy color palette & Hyprland border gradient
 ├── icons.theme             # Icon theme selection (Yaru)
 ├── preview.png             # Omarchy theme picker preview image
